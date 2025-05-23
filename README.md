@@ -37,8 +37,14 @@ Control the snake using the arrow keys to eat apples, grow longer, and avoid col
 - Other classes (if any) for supporting functionality.
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/5c502f4a-b15e-4c32-9424-38f19841ddf1)
 
-*(Add screenshots here to showcase your game!)*
+![image](https://github.com/user-attachments/assets/1edb54d7-2a31-4492-a3b2-4babcd666d5c)
+
+![image](https://github.com/user-attachments/assets/534ab859-3b35-4605-b5b8-99c519fd2d0e)
+
+
+
 
 ## License
 
